@@ -34,7 +34,7 @@ GitHubプロフィールを通じてプロジェクトメンテナーに連絡�
 
  ## 帰属表示
 
-この行動規範は、[Contributor Covenant][ホームページ]、バージョン2.1を基に作成されています。バージョン2.1は、以下のURLで入手可能です。
-https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+この行動規範は、[Contributor Covenant ホームページ](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html)、バージョン2.1を基に作成されています。バージョン2.1は、上記のURLで入手・確認可能です。
 
-[ホームページ]: https://www.contributor-covenant.org
+
+ホームページ: https://www.contributor-covenant.org
