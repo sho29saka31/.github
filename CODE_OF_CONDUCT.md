@@ -1,44 +1,40 @@
-# Contributor Covenant Code of Conduct
+# 貢献者行動規範
 
-## Our Pledge
+## 私たちの誓約
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+メンバー、貢献者、リーダーである私たちは、年齢、体型、目に見える障害または見えない障害、民族、性別、性自認および性表現、経験レベル、学歴、社会経済的地位、国籍、容姿、人種、宗教、性的アイデンティティおよび性的指向に関わらず、すべての人にとってハラスメントのないコミュニティへの参加を実現することを誓います。
 
-## Our Standards
 
-Examples of behavior that contributes to a positive environment include:
+ ## 行動規範
 
-- Demonstrating empathy and kindness toward other people
-- Being respectful of differing opinions, viewpoints, and experiences
-- Giving and gracefully accepting constructive feedback
+良好な環境づくりに貢献する行動の例：
 
-Examples of unacceptable behavior include:
+- 他者への共感と親切心を示す
+- 異なる意見、視点、経験を尊重する
+- 建設的なフィードバックを与え、また快く受け入れる
 
-- The use of sexualized language or imagery, and unwelcome sexual attention
-- Trolling, insulting or derogatory comments, and personal or political attacks
-- Public or private harassment
+許容されない行動の例：
 
-## Enforcement Responsibilities
+- 性的な言葉や画像の使用、および望まない性的関心を示すこと
+- 荒らし行為、侮辱的または中傷的なコメント、個人攻撃または政治的攻撃
+- 公私を問わずハラスメント
 
-Project maintainers are responsible for clarifying and enforcing standards of
-acceptable behavior and will take appropriate corrective action in response to
-any behavior deemed inappropriate.
+## 執行責任
 
-## Reporting
+プロジェクトメンテナーは、許容される行動規範を明確にし、執行する責任を負います。
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the project maintainer by opening a private security advisory or
-contacting them through their GitHub profile.
+不適切な行動に対しては、適切な是正措置を講じます。
 
-## Attribution
+## 報告
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
+虐待、ハラスメント、その他許容されない行動については、
+プライベートセキュリティアドバイザリを送信するか、
+GitHubプロフィールを通じてプロジェクトメンテナーに連絡することで報告できます。
 
-[homepage]: https://www.contributor-covenant.org
+
+ ## 帰属表示
+
+この行動規範は、[Contributor Covenant][ホームページ]、バージョン2.1を基に作成されています。バージョン2.1は、以下のURLで入手可能です。
+https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+
+[ホームページ]: https://www.contributor-covenant.org
