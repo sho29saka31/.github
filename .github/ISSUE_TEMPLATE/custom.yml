@@ -1,0 +1,12 @@
+name: その他
+description: 上記のテンプレートに当てはまらない Issue を作成する
+title: ""
+labels: []
+body:
+  - type: textarea
+    id: content
+    attributes:
+      label: 内容
+      description: 目的や内容を自由に記載してください。
+    validations:
+      required: true
