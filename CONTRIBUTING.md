@@ -7,11 +7,11 @@
 1. リポジトリを Fork するか、ブランチを作成してください。
 2. 変更を行い、わかりやすいコミットメッセージを書いてください。
 3. Pull Request を作成し、変更内容を説明してください。
-※プルリクエストを作成する際は[Pull Request テンプレート](htps://github.com/sho29saka31/.github/PULL_REQUEST_TEMPLATE.md)を使って作成してください。
+※プルリクエストを作成する際は[Pull Request テンプレート](https://github.com/sho29saka31/.github/PULL_REQUEST_TEMPLATE.md)を使って作成してください。
 
 ## Issue の報告
 
-バグ報告や機能提案は [Issue テンプレート](htps://github.com/sho29saka31/.github/ISSUE_TEMPLATE)を使って作成してください。
+バグ報告や機能提案は [Issue テンプレート](https://github.com/sho29saka31/.github/ISSUE_TEMPLATE)を使って作成してください。
 
 ## コードスタイル
 
